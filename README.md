@@ -5,10 +5,6 @@ This is the simulation of a game described by Matt Parker in a video on Stand Up
 
 
 
-This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
-
-
-
 The game is in Spanish but if there´s people interested I´ll translate it. 
 
 The "graphics.py" document is not my work, it was published by John Zelle for public use and it is necessary for running the main file. 
@@ -22,3 +18,9 @@ La interacción con el juego ocurre a través de la pantalla de Consola y casi n
 
 I hope you enjoy my terrible code.
 Espero que disfruten mi código terrible.
+
+
+
+
+
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
