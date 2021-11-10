@@ -17,6 +17,7 @@ El archivo "graphics.py" no es mi trabajo, fue publicado por John Zelle para uso
 
 
 Interaction with the game occurs mainly through the console screen and almost does not happen on the graphics screen, so you´ll need both open.
+
 La interacción con el juego ocurre a través de la pantalla de Consola y casi no ocurre en la pantalla gráfica, así que necesitarás ambas abiertas.
 
 I hope you enjoy my terrible code.
